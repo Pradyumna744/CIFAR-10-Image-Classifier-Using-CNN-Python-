@@ -1,0 +1,10 @@
+tensorflow
+numpy
+streamlit
+pillow
+opencv-python
+pandas
+matplotlib
+seaborn
+plotly
+streamlit-image-comparison
